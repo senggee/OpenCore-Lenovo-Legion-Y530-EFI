@@ -10,6 +10,7 @@ Enter Advance BIOS setting ( "Fn" + "D" + "O" keys) press simultaneously
 FOLLOWED BY changing the BIOS setting:
 
 Sercurity --> Secure Boot [Disable]
+
 Advanced --> Debug Settings --> Kernel Debug Serial Port [Legacy UART]
 
 
