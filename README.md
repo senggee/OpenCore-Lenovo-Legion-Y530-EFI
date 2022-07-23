@@ -24,7 +24,7 @@ Working:
 Display brightness
 Audio
 Ethernet
-
+WIFI and TrackPad Buttons
 
 Not Working:
-WIFI and TrackPad Buttons
+HDMI
