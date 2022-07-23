@@ -1,4 +1,4 @@
-# OpenCore-0.6.9-Lenovo-Legion-Y530-EFI
+# OpenCore-0.8.2-Lenovo-Legion-Y530-EFI
 
 This is my EXPERIMENTAL EFI file, use it at your own risk.
 
